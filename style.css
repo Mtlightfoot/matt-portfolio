@@ -45,7 +45,6 @@ ul {
     flex-direction: column;
     flex: 1;
     height: 300px;
-    border: 2px solid red;
     justify-content: center;
     color: #e5e7eb;
     font-size: 18px;
@@ -63,7 +62,6 @@ h1 {
     display: flex;
     flex: 1;
     height: 300px;
-    border: 2px solid red;
     align-items: center;
     justify-content: center;
 }
