@@ -42,14 +42,14 @@ ul {
 
 .left {
     display: flex;
-    flex-direction: column;
     flex: 1;
+    flex-direction: column;
     height: 300px;
-    justify-content: center;
     color: #e5e7eb;
     font-size: 18px;
-    align-items: stretch;
     gap: 10px;
+    justify-content: center;
+    max-height: 100%;
 }
 
 h1 {
@@ -63,7 +63,8 @@ h1 {
     flex: 1;
     height: 300px;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
+    align-content: center;
 }
 
 img {
