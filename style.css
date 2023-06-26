@@ -138,3 +138,34 @@ h4 {
     text-align: right;
     padding-right: 20%;
 }
+
+.sign-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 5% 20%;
+    border-radius: 6px;
+    padding: 5% 10%;
+    color: #e5e7eb;
+    gap: 10%;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.sign-up-button {
+    border: 2px solid #f9faf8;
+    border-radius: 6px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 2.5% 20%;
+    text-align: center;
+    font-size: 12px;
+}
